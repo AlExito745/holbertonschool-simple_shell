@@ -1,0 +1,19 @@
+dbav1904@gmail.com.Dd November 29, 2022
+.Dt Simple Shell V.0
+.Os Linux
+.Sh NAME
+.Nm "Simple Shell"
+.Nd Custom simple shell in C language programing
+.Sh SYNOPSIS
+.Nm
+
+.Nd It takes no arguments
+.Sh DESCRIPTION
+
+.Sh EXAMPLES
+
+.Sh AUTHORS
+.An José Tirado
+.An Diego Alvarado
+.An Alex Nuñez
+
