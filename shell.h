@@ -12,13 +12,7 @@
 char *read_line(void);
 char **splits(char *line, char *delim);
 int execute(char **parse);
-
-
-
 char **find_path(char **environ);
-
 char *args_path(char **parse, char **tokens);
-
-
 
 #endif
